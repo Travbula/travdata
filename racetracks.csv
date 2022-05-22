@@ -1,0 +1,13 @@
+racetrack_id, name, length, open_stretch, municipality, open_year
+"BJ_NR", "Bjerke Travbane", 1000, false, "Oslo", 1928
+"JA_NR", "Jarlsberg Travbane", 1000, false, "Tønsberg", 1935
+"LE_NR", "Leangen Travbane", 1000, false, "Leangen", 1931
+"BT_NR", "Bergen Travpark", 1000, false, "Bergen", 1985
+"BI_NR", "Biri Travbane", 1000, false, "Gjøvik", 1985
+"BD_NR", "Nye Bodø Travbane", 1000, false, "Bodø", 2011
+"DR_NR" "Drammen Travbane", 800, false, "Drammen", 1955
+"FO_NR", "Forus Travbane", 950, false, "Stavanger", 1920
+"HA_NR", "Harstad Travpark", 950, false, "Harstad", 1995
+"KL_NR", "Klosterskogen Travbane", 800, true, "Skien", 1920
+"MO_NR", "Momarken Travbane", 1000, false, "Eidsberg", 1920
+"ST_NR" "Sørlandets Travpark", 1000, false, "Kristiansand", 1988 
