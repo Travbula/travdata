@@ -1,4 +1,4 @@
-racetrack_id, name, length, open_stretch, municipality, open_year
+racetrack_id, name, distance, open_stretch, municipality, opening_year
 "BJ_NR", "Bjerke Travbane", 1000, false, "Oslo", 1928
 "JA_NR", "Jarlsberg Travbane", 1000, false, "Tønsberg", 1935
 "LE_NR", "Leangen Travbane", 1000, false, "Leangen", 1931
