@@ -1,13 +1,14 @@
-"RACETRACK_ID","NAME","DISTANCE","OPEN_STRETCH","MUNICIPALITY","OPENING_YEAR"
-"BJ_NR","Bjerke Travbane",1000,false,Oslo,1928
-"JA_NR","Jarlsberg Travbane",1000,false,"Tønsberg",1935
-"LE_NR","Leangen Travbane",1000,false,"Leangen",1931
-"BT_NR","Bergen Travpark",1000,false,"Bergen",1985
-"BI_NR","Biri Travbane",1000,false,"Gjøvik",1985
-"BD_NR","Nye Bodø Travbane",1000,false,"Bodø",2011
-"DR_NR","Drammen Travbane",800,false,"Drammen",1955
-"FO_NR","Forus Travbane",950,false,"Stavanger",1920
-"HA_NR","Harstad Travpark",950,false,"Harstad",1995
-"KL_NR","Klosterskogen Travbane",800,true,"Skien",1920
-"MO_NR","Momarken Travbane",1000,false,"Eidsberg",1920
-"ST_NR","Sørlandets Travpark",1000,false,"Kristiansand",1988 
+"RACETRACK_ID","NAME","DISTANCE","OPEN_STRETCH","MUNICIPALITY","OPENING_YEAR","FINISH_DISTANCE","DOSAGE","SWING_RADIUS","STREET_ADDRESS","AREA_CODE","CITY","WEBSITE"
+"BJ_NR","Bjerke Travbane",1000,false,Oslo,1928,200,0.18,77.8,"Refstadveien 27","0589","Oslo","https://www.bjerke.no"
+"JA_NR","Jarlsberg Travbane",1000,false,"Tønsberg",1935,200,0.165,78,"Postboks 2283","3103","Tønsberg","https://www.jarlsberg-travbane.no"
+"LE_NR","Leangen Travbane",1000,false,"Leangen",1931,270,0.17,65,"Tungaveien 1","7047","Trondheim","https://leangen.no"
+"BT_NR","Bergen Travpark",1000,false,"Bergen",1985,190,.015,81.6,"Travparkveien 70","5111","Breistein","https://www.travparken.no"
+"BI_NR","Biri Travbane",1000,false,"Gjøvik",1985,190,0.14,85,"Paradisvegen 1","2836","Biri","https://www.biritrav.no"
+"BD_NR","Nye Bodø Travbane",1000,false,"Bodø",2011,,,,,,,
+"DR_NR","Drammen Travbane",800,false,"Drammen",1955,150,0.15,70.5,"Rosenkrantzgata 355","3027","Drammen","https://www.drammentravbane.no"
+"FO_NR","Forus Travbane",950,false,"Stavanger",1920,200,0.15,76.5,"Bjødnabeen 7","4033","Stavanger","https://www.forus-travbane.no"
+"HA_NR","Harstad Travpark",970,false,"Harstad",1995,154,0.15,82.4,"Langmoan","9403","Harstad","https://harstadtravpark.no"
+"KL_NR","Klosterskogen Travbane",800,true,"Skien",1920,220,0.15,57.5,"Tokkeveien 17","3733","Skien","https://www.klosterskogen.no"
+"MO_NR","Momarken Travbane",1000,false,"Eidsberg",1920,240,0.145,71,"Skofterudvn 12","1850","Mysen","https://www.momarken.no"
+"ST_NR","Sørlandets Travpark",1000,false,"Kristiansand",1988,200,0.15,83,"Travparkveien 30","4636","Kristiansand S.","https://sorlandets-travpark.no"
+"OR_NR","Varig Orkla Arena",1100,false,,,243,0.18,83,"Orkdalsveien 622","7320","Fannrem","https://varigorklaarena.no"
