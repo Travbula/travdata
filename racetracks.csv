@@ -2,7 +2,7 @@
 "BJ_NR","Bjerke Travbane",1000,false,Oslo,1928,200,0.18,77.8,"Refstadveien 27","0589","Oslo","https://www.bjerke.no"
 "JA_NR","Jarlsberg Travbane",1000,false,"Tønsberg",1935,200,0.165,78,"Postboks 2283","3103","Tønsberg","https://www.jarlsberg-travbane.no"
 "LE_NR","Leangen Travbane",1000,false,"Leangen",1931,270,0.17,65,"Tungaveien 1","7047","Trondheim","https://leangen.no"
-"BT_NR","Bergen Travpark",1000,false,"Bergen",1985,190,.015,81.6,"Travparkveien 70","5111","Breistein","https://www.travparken.no"
+"BT_NR","Bergen Travpark",1000,false,"Bergen",1985,190,0.15,81.6,"Travparkveien 70","5111","Breistein","https://www.travparken.no"
 "BI_NR","Biri Travbane",1000,false,"Gjøvik",1985,190,0.14,85,"Paradisvegen 1","2836","Biri","https://www.biritrav.no"
 "BD_NR","Nye Bodø Travbane",1000,false,"Bodø",2011,,,,,,,
 "DR_NR","Drammen Travbane",800,false,"Drammen",1955,150,0.15,70.5,"Rosenkrantzgata 355","3027","Drammen","https://www.drammentravbane.no"
